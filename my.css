@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0 ;
+}
+
+header { 
+    background-color: #000000; 
+    color: white; 
+   } 
+   p { 
+    width: 50%; /* ширина, равная 50% экрана монитора */ 
+   } 
+footer { 
+    background-color: #000000;
+    color:white; 
+}
+
+main{
+    background-color: brown;
+    color: azure;
+    padding: 10px;
+
+}
+
+
+ul{
+    list-style-type: square;
+}
